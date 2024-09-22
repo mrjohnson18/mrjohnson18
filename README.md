@@ -1,9 +1,12 @@
-## Hi there 👋
+Mel Johnson
+mrjohnson18@my.waketech.edu
+This is a school assignment repository
+I chose the repository I created online and cloned it to a newly created folder on my computer
 
 <!--
 **mrjohnson18/mrjohnson18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
