@@ -5,6 +5,7 @@ This is a school assignment repository
 I chose the repository I created online and cloned it to a newly created folder on my computer. Edited in my notepad and went back to GitHub.
 
 #About Me
+My name is Melodie and I am currently a student at Wake Technical Community College studying Cybersecurtiy. I have a Toy Poodle named Mr. Pots and I enjoy spending time with my puppy, friends, and family. I am also new to learning about Cybersecurity and enjoying the ride.
 ##My Interests
 Some of my main iterests are gaming on colsole and PC. Creating visual art with acrylic, oil, and watercolor paint. I also enjoy outdoor activities such as hiking and exploring new areas of nature. 
 ##Websites I Recommend
